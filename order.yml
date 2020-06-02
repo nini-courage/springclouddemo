@@ -14,11 +14,11 @@ spring:
       test-on-borrow: true
       test-on-return: true
   rabbitmq:
-    host: 115.29.168.73
+    host: 39.97.175.206
     port: 5672    
   redis:
     database: 0
-    host: 115.29.168.73
+    host: 39.97.175.206
     port: 6379
     jedis:
       pool:
