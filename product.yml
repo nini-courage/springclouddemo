@@ -15,8 +15,9 @@ spring:
      test-on-return: true
   redis:
     database: 0
-    host: 115.29.168.73
+    host: 39.97.175.206
     port: 6379
+    password: neuedu
     jedis:
       pool:
         max-active: 1
